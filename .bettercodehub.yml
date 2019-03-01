@@ -1,0 +1,6 @@
+exclude:
+- /WEB-INF/.*
+- /bin/.*
+- /contrib/.*
+- /data/.*
+- /lib/.*
