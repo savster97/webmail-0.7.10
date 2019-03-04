@@ -1,6 +1,8 @@
 exclude:
-- /WEB-INF/.*
-- /bin/.*
-- /contrib/.*
-- /data/.*
-- /lib/.*
+  - /WEB-INF/.*
+  - /bin/.*
+  - /contrib/.*
+  - /data/.*
+  - /lib/.*
+include:
+  - /src/.*
